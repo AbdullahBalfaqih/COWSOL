@@ -99,8 +99,10 @@ const STEPS = [
 function BuyNowButton({ className = "" }: { className?: string }) {
   return (
     <a
-      href="#buy"
-      className={`inline-flex items-center justify-center border-4 border-cow-dark bg-cow-cream px-8 py-4 font-heading text-xl text-cow-dark transition-transform hover:-translate-y-0.5 ${className}`}
+      href="https://pump.fun/C1HgBDPt43y5tPa7hbLYUMug1B7ZBrsruEhCVbe7pump"
+      target="_blank"
+      rel="noopener noreferrer"
+      className={`inline-flex items-center justify-center border-4 border-cow-dark bg-cow-cream px-8 py-4 font-heading text-xl text-cow-dark shadow-[4px_4px_0_#100C18] transition-transform hover:-translate-y-0.5 ${className}`}
     >
       Buy Now
     </a>

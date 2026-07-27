@@ -68,31 +68,31 @@ const TOKENOMICS_ITEMS = [
 
 const ROADMAP_PHASES = [
   {
-    title: "Phase 1:",
-    items: ["Launch COWSOL", "Smart contract audit", "Website + whitepaper go live"],
+    title: "Phase 1: Groundwork",
+    items: ["Token Generation Event (TGE)", "Website & Community Launch", "Smart Contract Audit", "DEX Listings"],
   },
   {
-    title: "Phase 2:",
-    items: ["Launch COWSOL", "Smart contract audit", "Whitepaper + Web Launch"],
+    title: "Phase 2: RWA Integration",
+    items: ["First Tokenized Cows Onchain", "AI Collar Data Sync", "RWA Yield Dashboard Beta", "Strategic Farm Partnerships"],
   },
   {
-    title: "Phase 3:",
-    items: ["Cows on the Blockchain", "Mobile app + wallet support", "In-person COWCON event"],
+    title: "Phase 3: Global Expansion",
+    items: ["Mobile App & Wallet Integration", "Governance & Herd Voting", "In-person COWCON Event", "CEX Listings"],
   },
 ];
 
 const STEPS = [
   {
     title: "Grab your wallet",
-    description: "Set up a wallet like MetaMask or Trust Wallet.",
+    description: "Set up a Solana-compatible wallet like Phantom or Solflare.",
   },
   {
-    title: "Buy COWSOL on PancakeSwap",
-    description: "Swap BNB for COWSOL in just a few clicks.",
+    title: "Buy COWSOL on Raydium",
+    description: "Swap SOL for COWSOL directly on Raydium or Jupiter in just a few clicks.",
   },
   {
     title: "Hold on tight. Help the planet. Join the herd.",
-    description: "Sit back, earn rewards, and support farmers along the way.",
+    description: "Sit back, earn rewards, and support tokenized farming operations along the way.",
   },
 ];
 

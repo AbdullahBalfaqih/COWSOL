@@ -1,7 +1,7 @@
 import Image from "next/image";
 import CopyAddress from "./components/CopyAddress";
 
-const CONTRACT_ADDRESS = "0x2170Ed0880ac9A755fd29B2688956BD959F933F8";
+const CONTRACT_ADDRESS = "C1HgBDPt43y5tPa7hbLYUMug1B7ZBrsruEhCVbe7pump";
 
 const IMAGES = {
   heroBg:
